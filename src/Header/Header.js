@@ -14,7 +14,7 @@ class Header extends React.Component{
         return(
             <header>
                 <div className="header_item">
-                    <h1> News by Filimon</h1>
+                    <h1> News by &copy;VanyaLuk</h1>
                 </div>
                 <div className = "spacer">
 
